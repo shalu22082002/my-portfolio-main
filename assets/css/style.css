@@ -840,7 +840,7 @@ header .navbar ul li a:hover {
   left: 30px;
   border: medium solid teal;
   border-width: 10px 10px 10px 0;
-  border-color: transparent tealtransparent transparent;
+  border-color: transparent teal transparent transparent;
 }
 .experience .right::after {
   left: -16px;
